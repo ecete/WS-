@@ -4,3 +4,5 @@
 
 /.vs/WS-/v15
 /.vs
+/aplicacion_prueba/*.pyproj
+/aplicacion_prueba/__pycache__
