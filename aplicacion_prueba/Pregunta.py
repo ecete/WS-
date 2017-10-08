@@ -89,7 +89,10 @@ class Pregunta():
         return self.__usuario
 
     def get_usuario_que_pregunta_link(self):
+<<<<<<< HEAD
         link = ''
+=======
+>>>>>>> 71f9b5b8b96792eca733bc6501d49f24652e62cd
         itera = 0
         user = self.__soup.find_all(attrs = {'class' :'user-action-time'})
         p = self.__soup.find_all(attrs = {'class': 'user-details'})
