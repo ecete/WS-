@@ -18,7 +18,7 @@ pregunta.crea_lista_usuarios()
 #'''
 #USUARIO QUE REALIZA LA PREGUNTA: {}
 #PREGUNTA: {}
-#'''.format(pregunton,question)   
+#'''.format(pregunton,question)
 #)
 #temp.write(string)
 #for i in pregunta.get_lista_respuestas():
